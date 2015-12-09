@@ -57,7 +57,6 @@ if ($result->num_rows > 0) {
 
 ?>
 
-
 <?php
 
 $sql = "SELECT * FROM plan_days WHERE plan_id='$last_id'";
